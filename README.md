@@ -1,4 +1,4 @@
-# EdgeCam-Lite (v2)
+# EdgeCam-Lite
 
 A small, disciplined user-space pipeline that exercises **io_uring** for high-throughput I/O and runs untrusted image processing code as **WebAssembly (WASM)**. Designed to run on Ubuntu 22.04 in a VM.
 
